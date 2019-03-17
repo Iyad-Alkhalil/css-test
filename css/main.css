@@ -1,3 +1,5 @@
+@import "~animate.css/animate.css";
+
 body{
     position: relative;
     width: 100%;
@@ -37,3 +39,15 @@ span{
     bottom: 0;  
     
 }
+
+
+.ss {
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+  .cc{
+    height: 200px;
+      width: 100%;
+      font-size: 50px;
+  }
